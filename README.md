@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    README.md                                          :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: ismelich <marvin@42.fr>                    +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/11/15 11:45:18 by ismelich          #+#    #+#              #
-#    Updated: 2019/11/15 11:46:11 by ismelich         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 Introduction
 
 The Piscine Reloaded is a best-of of the exercises you did during the Piscine C to
